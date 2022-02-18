@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+}
+ html {
+    /* font-family: 'Bungee Outline', cursive;
+    font-family: 'Hahmlet', serif; */
+    font-family: 'Bungee Outline', cursive;
+font-family: 'Hahmlet', serif;
+font-family: 'Roboto', sans-serif;
+ }
+ body {
+     overflow-x: hidden;
+ }
+
+nav {
+    /* background-color: #F6FFF2; */
+    background-color: #ecffe3;
+    height: 500px;
+}
+
+.first {
+font-size: 3em;
+/* font-weight: bold; */
+padding-left: 76px;
+padding-top: 73px;
+}
+
+.second {
+    font-size: 3em;
+    /* font-weight: 900; */
+    margin-top: 38px;
+    margin-left: 300px;
+}
+
+.nav-container {
+    display: flex;
+    margin-top: 100px;
+    /* border: 5px solid green; */
+    width: 50%;
+    margin-left: 5em;
+    gap: 60px;
+}
+
+.flex {
+width: 500px;
+height: 100px;
+line-height: 1.3em;
+letter-spacing: .06em;
+}
+
+.img-container {
+/* height: 400px;
+width: 400px; */
+position: relative;
+left: 1300px;
+bottom: 550px;
+
+}
+
+.profile-img {
+    /* position: absolute; */
+    border-radius: 50%;
+    height: 800px;
+    width: 800px;
+    border: 0px;
+}
+
+
+h1 {
+    margin-left: 17.1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.flexcontainer {
+    display: flex;
+    gap: 2rem;
+    padding-left: 50px;
+}
+
+img {
+    height: 300px;
+    
+    border: 5px solid #F5E3FF;
+}
